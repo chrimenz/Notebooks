@@ -1,2 +1,2 @@
 # Notebooks
-Jupyter Notebooks for teaching Electronic Control Systems
+Jupyter Notebooks for teaching Electronic Control Systems (German)
